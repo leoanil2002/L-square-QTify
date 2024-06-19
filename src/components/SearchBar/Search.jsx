@@ -10,6 +10,6 @@ const Search = () => {
       </button>
     </form>
   );
-};
+}; 
 
 export default Search;

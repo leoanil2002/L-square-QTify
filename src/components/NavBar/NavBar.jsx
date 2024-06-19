@@ -12,6 +12,6 @@ const Navbar = () => {
       <Button children="Give Feedback" />
     </nav>
   );
-};
+}; 
 
 export default Navbar;

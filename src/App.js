@@ -7,7 +7,7 @@ import {
   fetchNewAlbums,
   fetchSongs,
   fetchGenres,
-  fetchFaqs,
+  fetchFaqs, 
 } from "./api/api";
 // import Section from "./components/Section/Section";
 // import FaqSection from "./components/Faqs/Faqs";

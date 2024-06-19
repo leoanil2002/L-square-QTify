@@ -9,7 +9,7 @@ export const fetchTopAlbums = async () => {
     return res.data;
   } catch (e) {
     console.log(e);
-  }
+  } 
 };
 
 export const fetchNewAlbums = async () => {
